@@ -1,0 +1,20 @@
+{
+  "name": "Sono",
+  "short_name": "Sono",
+  "start_url": "/Sono/",
+  "display": "standalone",
+  "background_color": "#0e0e12",
+  "theme_color": "#a238ff",
+  "icons": [
+    {
+      "src": "/Sono/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Sono/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
