@@ -2,7 +2,7 @@
   "name": "Sono",
   "short_name": "Sono",
   "start_url": "/Sono/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#0e0e12",
   "theme_color": "#a238ff",
   "icons": [
